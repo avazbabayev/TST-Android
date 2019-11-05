@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tst_Android</string>
+    <string name="title_activity_wb__view">WB_View</string>
+    <string name="title_activity_add_url">Add_url</string>
+</resources>
